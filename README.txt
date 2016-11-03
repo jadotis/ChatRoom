@@ -1,21 +1,12 @@
 Welcome to the Chatroom README:
 
-These files are just the javas (not .class)
-raw files
-
-
 Name: James Otis (jadotis@bu.edu)
-Class: CS455 Matta (PA1)
 
 Table of Contents--
 
 -Tasks
 -Directions for running
 -Features Implemented
-
-
-
-
 
 
 Task1:
